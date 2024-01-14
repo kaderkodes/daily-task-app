@@ -1,5 +1,5 @@
 
-# Daily Task App.
+# Daily Task App
 
 A task tracking app built using `React.js` and `Redux` with the implementation of CRUD functionalities.
 
